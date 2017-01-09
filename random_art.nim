@@ -66,7 +66,7 @@ proc helpMessage() =
   echo "  Options:"
   echo "  -r, --renderer : cpu | opengl"
   echo "                   render on the CPU or with a GPU (using OpenGL)"
-  echo "  -s, --size     : <width>x<height"
+  echo "  -s, --size     : <width>x<height>"
   echo "                   the dimension of the render, must be a positive int"
   echo "  -b, --bounds   : <xMin>,<xMax>,<yMin>,<yMax>"
   echo "                   the bounds to use to render, must be a float"
