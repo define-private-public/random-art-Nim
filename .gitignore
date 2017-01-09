@@ -1,0 +1,11 @@
+*.sw*
+
+# Binaries
+nimcache/
+renders/
+nakefile
+random_art.bin
+random_art
+
+render.png
+

@@ -1,0 +1,10 @@
+(mul
+  (var y)
+  (mod
+    (sum
+      (var x)
+      (var y)
+    )
+    (const 1 0.7 -0.1 0.95)
+  )
+)
