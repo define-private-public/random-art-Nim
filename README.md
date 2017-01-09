@@ -64,7 +64,7 @@ Take a look below; the first is rendered on the CPU, where the second is on the
 GPU.
 
 ![A CPU Render](https://gitlab.com/define-private-public/random-art-Nim/raw/master/examples/cpu-render.png)
-![A GPU Render](https://gitlab.com/define-private-public/random-art-Nim/raw/master/examples/cpu-render.png)
+![A GPU Render](https://gitlab.com/define-private-public/random-art-Nim/raw/master/examples/gpu-render.png)
 
 Though it looks pretty close, so it might not matter too much. :P
 
