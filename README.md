@@ -96,7 +96,7 @@ Here's a much simplier example from `examples/simple.txt`:
 
 It produces this:
 
-!(A Simple Random Art Example)[https://gitlab.com/define-private-public/random-art-Nim/raw/master/examples/simple.png]
+![A Simple Random Art Example](https://gitlab.com/define-private-public/random-art-Nim/raw/master/examples/simple.png)
 
 
 Known Issues
