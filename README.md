@@ -23,15 +23,15 @@ It is based off of the Python example found here:
   http://math.andrej.com/2010/04/21/random-art-in-python/
 
 
-Building:
----------
+Building
+--------
 
 From the root directory, run `nake release`.  Make sure you have the necesssary
 packages and libraries specified in `random_art.nimble`.
 
 
-Usage:
-------
+Usage
+-----
 
 If you want a simple 256x256 randomly generated piece of art rendered on the
 CPU, simply run `./random_art` and sit back.  An equation will pop out on
@@ -64,13 +64,13 @@ Take a look below; the first is rendered on the CPU, where the second is on the
 GPU.
 
 ![A CPU Render](https://gitlab.com/define-private-public/random-art-Nim/raw/master/examples/cpu-render.png)
-![A GPU Render](https://gitlab.com/define-private-public/random-art-Nim/raw/master/examples/cpu-render.png)
+![A GPU Render](https://gitlab.com/define-private-public/random-art-Nim/raw/master/examples/gpu-render.png)
 
 Though it looks pretty close, so it might not matter too much. :P
 
 
-Examples:
----------
+Examples
+--------
 
 If you want get the image that is at the top of this README, that equation is
 stored in `examples/complex.txt`, and run with the command:
