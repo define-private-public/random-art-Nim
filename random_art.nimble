@@ -12,4 +12,5 @@ Requires: "strfmt >= 0.8.4"
 Requires: "opengl >= 1.1.0"
 Requires: "stopwatch >= 1.0"
 Requires: "nimrod-glfw >= 3.2.0"
+Requires: "stb_image >= 1.1"
 
