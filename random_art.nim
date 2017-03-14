@@ -8,7 +8,7 @@ import opengl
 import glfw3 as glfw
 import stopwatch
 import strfmt
-import stb_image_write as stbiw
+import stb_image/write as stbiw
 import Quadruplet
 import expressions/Expr
 import expressions/ZeroExpr
