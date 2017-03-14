@@ -1,5 +1,5 @@
 import opengl
-import stb_image_write as stbiw
+import stb_image/write as stbiw
 
 
 proc shaderTypeString*(shaderType: GLenum): string=
